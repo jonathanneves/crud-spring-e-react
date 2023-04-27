@@ -1,0 +1,12 @@
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/services/UserServiceImpl.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/controllers/UserController.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/exceptions/models/Field.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/repositories/UserRepository.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/config/WebConfig.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/models/User.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/MainApplication.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/dtos/UserDTO.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/exceptions/models/Problem.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/implementations/UserService.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/handlers/ControllerExceptionsHandler.java
+/home/jonathan/dev/work/HD-2/CRUD com Spring and React/backend/src/main/java/com/spring/users/responses/SuccessResponse.java
